@@ -5,6 +5,5 @@ print('''
 ========Daftar Anggota========
 Nailah Ramadhani (2505176006)
 Ridho Putra      (2505176007)
-Novita Hendriati (2505176031)''')
-
-Kelas A 2025
+Novita Hendriati (2505176031)
+Huda             (2505176026)''')
